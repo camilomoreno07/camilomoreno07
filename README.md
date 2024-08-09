@@ -2,7 +2,7 @@
 
 ![me](https://media.licdn.com/dms/image/D4E16AQGBUdEXEP6xOA/profile-displaybackgroundimage-shrink_350_1400/0/1723224601552?e=1728518400&v=beta&t=qHEhBpPD9icebslYcy6NbvtDkmAfJ1Ku-Ke9Nsm84ZQ)
 
-AWS Application Support specialist with hands-on experience in application monitoring and user support. Proficient in collaborating with development teams to optimize application performance and troubleshoot issues. Skilled in configuration management, scripting for automation, and working with container technologies like Docker. Possesses a strong understanding of database management and documentation practices, dedicated to continuous improvement and ensuring seamless application functionality.
+[AWS](https://aws.amazon.com/) Application Support specialist with hands-on experience in application monitoring and user support. Proficient in collaborating with development teams to optimize application performance and troubleshoot issues. Skilled in configuration management, scripting for automation, and working with container technologies like Docker. Possesses a strong understanding of database management and documentation practices, dedicated to continuous improvement and ensuring seamless application functionality.
 
 ## Find me around the web 🌎:
 ---

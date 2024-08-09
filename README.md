@@ -6,8 +6,8 @@ AWS Application Support specialist with hands-on experience in application monit
 
 ## Find me around the web 🌎:
 ---
-- Tutorials in my [Youtube Channel](https://www.youtube.com/@camilomoreno10)
-- Sharing updates on [Linkedin](https://www.linkedin.com/in/camp1003/)
+- Tutorials in my [Youtube Channel](https://www.youtube.com/@camilomoreno10) 📹✍️
+- Sharing updates on [Linkedin](https://www.linkedin.com/in/camp1003/) 💼
 <!--
 **camilomoreno07/camilomoreno07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

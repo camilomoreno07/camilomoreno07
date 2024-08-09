@@ -1,5 +1,7 @@
 # Hi, I'm Camilo 👋👨🏻‍💻
 
+![me](https://media.licdn.com/dms/image/D4E16AQGBUdEXEP6xOA/profile-displaybackgroundimage-shrink_350_1400/0/1723224601552?e=1728518400&v=beta&t=qHEhBpPD9icebslYcy6NbvtDkmAfJ1Ku-Ke9Nsm84ZQ)
+
 <!--
 **camilomoreno07/camilomoreno07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

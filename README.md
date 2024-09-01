@@ -1,6 +1,6 @@
 # Hi, I'm Camilo 👋👨🏻‍💻
 
-![banner](https://drive.google.com/file/d/1ZKPjykm39e8mvBqEs41O9YklsP3BsxKC/view](https://drive.google.com/file/d/1ZKPjykm39e8mvBqEs41O9YklsP3BsxKC/view)
+![banner](https://drive.google.com/file/d/1ZKPjykm39e8mvBqEs41O9YklsP3BsxKC/view)
 
 [AWS](https://aws.amazon.com/) Application Support specialist with hands-on experience in application monitoring and user support. Proficient in collaborating with development teams to optimize application performance and troubleshoot issues. Skilled in configuration management, scripting for automation, and working with container technologies like Docker. Possesses a strong understanding of database management and documentation practices, dedicated to continuous improvement and ensuring seamless application functionality.
 

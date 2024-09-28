@@ -1,6 +1,6 @@
 # Hi, I'm Camilo 👋👨🏻‍💻
 
-![banner](https://media.licdn.com/dms/image/v2/D4E16AQF4dm5Hiwz92w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725120840629?e=1730937600&v=beta&t=o_IF8N1PnP_nINXcDWDq9W4D_Xi19Lj2_i8v-D8Gc6o)
+![banner](https://media.licdn.com/dms/image/v2/D4E16AQHTQaRwUYejsQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727453794239?e=1732752000&v=beta&t=LgQRytwfH5N6d_RwGLjATJ00GIJ0c5i4Atyk3sIcdVM)
 
 [AWS](https://aws.amazon.com/) Cloud Engineer with practical experience in managing and supporting applications within AWS environments. Expertise in monitoring cloud infrastructure, providing user support, and collaborating closely with development teams to enhance performance and resolve technical challenges. Proficient in implementing configuration management, automating tasks through scripting, and utilizing container technologies like Docker. Strong knowledge of database management and best practices in documentation, committed to continuous improvement and maintaining optimal cloud application functionality.
 
